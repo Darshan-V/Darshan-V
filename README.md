@@ -22,8 +22,8 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 
 ## 📫 Get in Touch
 - LinkedIn: [Darshan Vijaykumar](https://www.linkedin.com/in/darshan-vijay-kumar-724949179)
-- Email: [Your Email Address](mr.darshanv@gmail.com)
-- Portfolio: [Your Portfolio](https://blog-three-theta-25.vercel.app/)
+- Email: [Reach me out @](mr.darshanv@gmail.com)
+- Portfolio: [More about me](https://blog-three-theta-25.vercel.app/)
 
 ## 🔭 Fun Fact
 I love experimenting with new technologies and building side projects!
