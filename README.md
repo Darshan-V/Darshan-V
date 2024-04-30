@@ -16,9 +16,9 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
 
 ## 🌱 Currently Learning
-- GraphQL
+- Backend development
 - Docker
-- Kubernetes
+- Unit and E2E testing
 
 ## 📫 Get in Touch
 - LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
