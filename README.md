@@ -28,3 +28,4 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 ## 🔭 Fun Fact
 I love experimenting with new technologies and building side projects!
 
+![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-V&theme=dark&show_icons=true)
