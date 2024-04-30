@@ -21,9 +21,9 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 - Unit and E2E testing
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile](Your LinkedIn Profile Link)
-- Email: [Your Email Address](mailto:youremail@example.com)
-- Portfolio: [Your Portfolio](Your Portfolio Link)
+- LinkedIn: [Darshan Vijaykumar](https://www.linkedin.com/in/darshan-vijay-kumar-724949179)
+- Email: [Your Email Address](mr.darshanv@gmail.com)
+- Portfolio: [Your Portfolio](https://blog-three-theta-25.vercel.app/)
 
 ## 🔭 Fun Fact
 I love experimenting with new technologies and building side projects!
