@@ -14,6 +14,7 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
  ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
+ ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-61DAFB?logo=tailwindcss&logoColor=white)
 
 ## 🌱 Currently Learning
 - Backend development
