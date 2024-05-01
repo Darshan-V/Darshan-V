@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋, I'm Darshan Vijaykumar
 
 I'm Darshan, a Fullstack Developer passionate about creating amazing web and mobile applications. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
