@@ -20,7 +20,7 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 - Docker
 - Unit and E2E testing
 
-## 📫 Get in Touch
+## 📡 Get in Touch
 - LinkedIn: [Darshan Vijaykumar](https://www.linkedin.com/in/darshan-vijay-kumar-724949179)
 - Email: [Reach me out @](mr.darshanv@gmail.com)
 - Portfolio: [More about me](https://blog-three-theta-25.vercel.app/)
@@ -28,4 +28,3 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 ## 🔭 Fun Fact
 I love experimenting with new technologies and building side projects!
 
-![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darshan-V&theme=dark&show_icons=true)
