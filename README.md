@@ -3,7 +3,7 @@
 I'm Darshan, a Fullstack Developer passionate about creating amazing web and mobile applications. Welcome to my GitHub profile! Feel free to explore my repositories and projects.
 
 ## 💻 Technologies & Tools
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
