@@ -18,7 +18,7 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 
 ## 🌱 Currently Learning
 - Backend development
-- Docker
+- Rust, Mobile Developement
 - Unit and E2E testing
 
 ## 📡 Get in Touch
