@@ -21,6 +21,8 @@ I'm Darshan, a Fullstack Developer passionate about creating amazing web and mob
 - Backend development
 - Rust, Mobile Developement
 - Unit and E2E testing
+- Docker
+- Kubernetes
 
 ## 📡 Get in Touch
 - LinkedIn: [Darshan Vijaykumar](https://www.linkedin.com/in/darshan-vijay-kumar-724949179)
